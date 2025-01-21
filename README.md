@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SmartTechie
 - 👀 I’m interested in PHP, Drupal and Javascript.
-- 🌱 I’m currently learning Drupal
-- 💞️ I’m looking to collaborate on php projects
+- 💞️ I’m looking to collaborate on Drupal/PHP projects
 - 📫 How to reach me shamas41@gmail.com
 
 <!---
